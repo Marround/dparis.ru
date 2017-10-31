@@ -1,0 +1,20 @@
+.bkg-anime {
+  position: absolute;
+  width: 100%;
+  height: calc(100vh - 52px);
+  background: url(/assets/img/bkg/paris2.jpg) 0 50% no-repeat;
+  background-size: 150%;
+  animation: move  100s infinite linear;
+}
+@keyframes move {
+  from {background-position-x: 0;background-position-y: 50%;}
+  25% {background-position-x: 50%;background-position-y: 0;}
+  50%{background-position-x: 100%;background-position-y: 50%;}
+  75%{background-position-x: 50%;background-position-y: 100%;}
+  to {background-position-x: 0;background-position-y: 50%;}
+}
+
+h2 {
+  font-family: 'Aurora Script', arial;
+  font-size: 8em;
+}

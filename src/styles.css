@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+@import url(http://allfont.ru/allfont.css?fonts=aurora-script);
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;;
+  margin: 0;
+  padding: 0;
+  min-width: 940px;
+}
+.docs-header-headline {
+  background-color: #3f51b5;
+  color: hsla(0,0%,100%,.87);
+}
+
+.docs-component-viewer {
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: calc(100vh - 265px);
+}
