@@ -1,7 +1,17 @@
+@import url(http://allfont.ru/allfont.css?fonts=american-retro);
+
 .bkg-anime {
   position: fixed;
   width: 100%;
   height: calc(100vh - 52px);
-  background: url(/assets/img/bkg/paris1.jpg) 0 0 no-repeat;
+  background: url(/assets/img/bkg/paris3.jpg) 0 0 no-repeat;
   background-size: 100%;
+}
+
+h1, p {
+  font-family: 'American Retro', arial;
+}
+
+p {
+  font-size: 25px;
 }
