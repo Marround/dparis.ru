@@ -1,3 +1,11 @@
+.bkg-anime {
+  position: fixed;
+  width: 100%;
+  height: calc(100vh - 52px);
+  background: url(/assets/img/bkg/paris6.jpg) 0 0 no-repeat;
+  background-size: 100%;
+}
+
 .live-image {
   background: url(/assets/img/home/de-paris.jpg) 0 50% no-repeat;
   background-size: 150%;

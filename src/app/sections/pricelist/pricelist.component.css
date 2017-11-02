@@ -1,15 +1,35 @@
+@import url(http://allfont.ru/allfont.css?fonts=american-retro);
+
+td, th {
+  font-family: 'American Retro', arial;
+}
+
+th {
+  font-size: 25px;
+  text-align: center;
+  vertical-align: middle;
+  color: #4E2200;
+}
+
+td>p{
+  font-size: 22px;
+}
+
 .bkg-anime {
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: calc(100vh - 52px);
-  background: url(/assets/img/bkg/paris4.jpg) 0 50% no-repeat;
-  background-size: 150%;
-  animation: move  100s infinite linear;
+  background: url(/assets/img/bkg/paris4.jpg) 0 0 no-repeat;
+  background-size: 100%;
 }
-@keyframes move {
-  from {background-position-x: 0;background-position-y: 50%;}
-  25% {background-position-x: 50%;background-position-y: 0;}
-  50%{background-position-x: 100%;background-position-y: 50%;}
-  75%{background-position-x: 50%;background-position-y: 100%;}
-  to {background-position-x: 0;background-position-y: 50%;}
+
+.my-tab-label {
+  color: #4E2200;
+  font-weight: bold;
+  font-family: 'American Retro', arial;
+  font-size: 20px;
+}
+
+.price {
+  text-align: center;
 }

@@ -7,6 +7,8 @@ import {RouterModule} from "@angular/router";
 import {SectionsModule, routs} from "./sections/index";
 import { MenuComponent } from './menu/menu.component';
 import {MatIconModule, MatButtonModule} from "@angular/material";
+import {HttpModule} from "@angular/http";
+import {PricelistService} from "./sections/pricelist/pricelist.service";
 
 @NgModule({
   declarations: [
@@ -19,9 +21,10 @@ import {MatIconModule, MatButtonModule} from "@angular/material";
     BrowserAnimationsModule,
     SectionsModule,
     MatIconModule,
-    MatButtonModule
+    MatButtonModule,
+    HttpModule
   ],
-  providers: [],
+  providers: [PricelistService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
