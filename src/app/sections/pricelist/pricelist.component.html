@@ -21,7 +21,7 @@
               <td><img src="./assets/img/food/{{list.photo}}" alt="" width="250px"></td>
               <td>
                 <h2>{{list.name}}</h2>
-                <p>{{list.description}} ({{list.meter}})</p>
+                <p>{{list.description}} <span *ngIf="list.meter">({{list.meter}})</span></p>
               </td>
               <td width="150px">
                 <h2 class="price">{{list.price}}</h2>

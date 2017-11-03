@@ -5,14 +5,14 @@
       "dish":[
         {
           "name": "«Эспрессо Классик»",
-          "photo": "espresso_classic.jpg",
+          "photo": "espresso_ristretto.jpg",
           "description": "",
           "meter": "30 мл",
           "price": "75"
         },
         {
           "name": "«Эспрессо Ристретто»",
-          "photo": "espresso_ristretto.jpg",
+          "photo": "espresso_classic.jpg",
           "description": "",
           "meter": "150 мл",
           "price": "70"
@@ -35,7 +35,7 @@
           "name": "«Эспрессо Лунго»",
           "photo": "espresso_lungo.jpg",
           "description": "Длинный эспрессо.",
-          "meter": "120мл",
+          "meter": "120 мл",
           "price": "80"
         },
         {
@@ -49,21 +49,21 @@
           "name": "«Эспрессо Латте Макьято»",
           "photo": "espresso_latte_macchiato.jpg",
           "description": "",
-          "meter": "180мл",
+          "meter": "180 мл",
           "price": "100"
         },
         {
           "name": "«Эспрессо Латте с сиропом»",
-          "photo": "",
+          "photo": "latte_sirop.jpg",
           "description": "",
-          "meter": "180мл",
+          "meter": "180 мл",
           "price": "120"
         },
         {
           "name": "«Эспрессо Латте медовый»",
-          "photo": "",
+          "photo": "latte_honey.jpg",
           "description": "",
-          "meter": "180мл",
+          "meter": "180 мл",
           "price": ""
         }
       ]
@@ -248,6 +248,175 @@
           "description": "",
           "meter": "300 мл",
           "price": "170"
+        }
+      ]
+    },
+    {
+      "name": "Мороженное",
+      "dish": [
+        {
+          "name": "Мороженое банан фламбе",
+          "photo": "icecream_banan_flambr.jpg",
+          "description": "",
+          "meter": "180 гр",
+          "price": "150"
+        },
+        {
+          "name": "Мороженое кубинские каникулы",
+          "photo": "icecream_cuba.jpg",
+          "description": "Ананас, сливки, гранатовый сироп",
+          "meter": "250 гр",
+          "price": "190"
+        },
+        {
+          "name": "Мороженое с топпингами",
+          "photo": "icecream_topping.jpg",
+          "description": "В ассортименте",
+          "meter": "190 гр",
+          "price": "70"
+        },
+        {
+          "name": "Мороженое от шеф повара",
+          "photo": "",
+          "description": "",
+          "meter": "230 гр",
+          "price": "130"
+        },
+        {
+          "name": "Мороженое «Фри»",
+          "photo": "icecream_free.jpg",
+          "description": "",
+          "meter": "175 гр",
+          "price": "150"
+        },
+        {
+          "name": "Творожный десерт",
+          "photo": "tvorog_desert.jpg",
+          "description": "Нежная, ароматная творожная масса с курагой, ванилью в форме шариков, политая шоколадом и посыпанная грецким орехом.",
+          "meter": "160 гр",
+          "price": "100"
+        },
+        {
+          "name": "Фруктовый салат",
+          "photo": "",
+          "description": "Фрукты в ассортименте, политые йогуртом, воздушные сливки, твердый шоколад.",
+          "meter": "230 гр",
+          "price": "110"
+        },
+        {
+          "name": "Фруктовая тарелка",
+          "photo": "",
+          "description": "Фрукты в ассортименте 500 гр 135 р",
+          "meter": "1 кг",
+          "price": "270"
+        },
+        {
+          "name": "Фрукты в карамели",
+          "photo": "frukt_karamel.jpg",
+          "description": "Яблоко, груша, банан.",
+          "meter": "200 гр",
+          "price": "150"
+        }
+      ]
+    },
+    {
+      "name": "Круассаны",
+      "dish": [
+        {
+          "name": "Круассан «Сыр с ветчиной»",
+          "photo": "kruassan_syr_vetchina.jpg",
+          "description": "",
+          "meter": "",
+          "price": "70"
+        },
+        {
+          "name": "Круассан «Язык с сыром»",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "70"
+        },
+        {
+          "name": "Круассан «Шоколад»",
+          "photo": "kruassan_hoko.jpg",
+          "description": "",
+          "meter": "",
+          "price": "50"
+        },
+        {
+          "name": "Круассан «Вареное сгущённое молоко»",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "50"
+        },
+        {
+          "name": "Круассан «Творог»",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "50"
+        },
+        {
+          "name": "Круассан «Конфитюр вишнёвый»",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "50"
+        }
+      ]
+    },
+    {
+      "name": "Десерты",
+      "dish":[
+        {
+          "name": "Чизкейк «New-York»",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "120"
+        },
+        {
+          "name": "Чизкейк «New-York» с лесными ягодами",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "120"
+        },
+        {
+          "name": "Чизкейк «Шоколадный»",
+          "photo": "chiskayk_shoko.jpg",
+          "description": "",
+          "meter": "",
+          "price": "120"
+        },
+        {
+          "name": "Чизкейк «New-York» с черникой",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "130"
+        },
+        {
+          "name": "Чизкейк «Ореховый»",
+          "photo": "",
+          "description": "",
+          "meter": "",
+          "price": "140"
+        },
+        {
+          "name": "Чизкейк «Бананово-Шоколадный»",
+          "photo": "chiskeyk_banan_shoko.jpg",
+          "description": "",
+          "meter": "",
+          "price": "160"
+        },
+        {
+          "name": "Торт «Тройной шоколад»",
+          "photo": "tort_triple_shoko.jpg",
+          "description": "",
+          "meter": "",
+          "price": "160"
         }
       ]
     },
@@ -874,135 +1043,6 @@
           "description": "Курица, грибы, соленый огурец, соус, сыр.",
           "meter": "700 гр",
           "price": "250"
-        }
-      ]
-    },
-    {
-      "name": "Мороженное",
-      "dish": [
-        {
-          "name": "Мороженое банан фламбе",
-          "photo": "icecream_banan_flambr.jpg",
-          "description": "",
-          "meter": "180 гр",
-          "price": "150"
-        },
-        {
-          "name": "Мороженое кубинские каникулы",
-          "photo": "icecream_cuba.jpg",
-          "description": "Ананас, сливки, гранатовый сироп",
-          "meter": "250 гр",
-          "price": "190"
-        },
-        {
-          "name": "Мороженое с топпингами",
-          "photo": "icecream_topping.jpg",
-          "description": "В ассортименте",
-          "meter": "190 гр",
-          "price": "70"
-        },
-        {
-          "name": "Мороженое от шеф повара",
-          "photo": "",
-          "description": "",
-          "meter": "230 гр",
-          "price": "130"
-        },
-        {
-          "name": "Мороженое «Фри»",
-          "photo": "icecream_free.jpg",
-          "description": "",
-          "meter": "175 гр",
-          "price": "150"
-        },
-        {
-          "name": "Творожный десерт",
-          "photo": "tvorog_desert.jpg",
-          "description": "Нежная, ароматная творожная масса с курагой, ванилью в форме шариков, политая шоколадом и посыпанная грецким орехом.",
-          "meter": "160 гр",
-          "price": "100"
-        },
-        {
-          "name": "Фруктовый салат",
-          "photo": "",
-          "description": "Фрукты в ассортименте, политые йогуртом, воздушные сливки, твердый шоколад.",
-          "meter": "230 гр",
-          "price": "110"
-        },
-        {
-          "name": "Фруктовая тарелка",
-          "photo": "",
-          "description": "Фрукты в ассортименте 500 гр 135 р",
-          "meter": "1 кг",
-          "price": "270"
-        },
-        {
-          "name": "Фрукты в карамели",
-          "photo": "frukt_karamel.jpg",
-          "description": "Яблоко, груша, банан.",
-          "meter": "200 гр",
-          "price": "150"
-        }
-      ]
-    },
-    {
-      "name": "Соусы",
-      "dish": [
-        {
-          "name": "Кетчуп томатный «Хайнц»",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Соус барбекю оригинальный «Хайнц»",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Соус кисло-сладкий оригинальный «Хайнц»",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Соус сырный оригинальный «Хайнц»",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Соус чесночный",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Майонез",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Сметана",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
-        },
-        {
-          "name": "Горчица",
-          "photo": "",
-          "description": "",
-          "meter": "50 гр",
-          "price": "30"
         }
       ]
     }
