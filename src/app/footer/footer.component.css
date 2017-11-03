@@ -1,0 +1,26 @@
+@import url(http://allfont.ru/allfont.css?fonts=american-retro);
+
+p {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+a {
+  color: hsla(30, 60%, 45%, 1);
+  text-decoration: none;
+}
+
+.docs-footer {
+  font-family: 'American Retro', arial;
+  background: mintcream;
+  color: hsla(30, 60%, 45%, 1);
+  margin-top: 40px;
+  font-size: 12px;
+  padding: 27.5px 0;
+  position: relative;
+}
+
+.docs-footer-list {
+  margin: 0 auto;
+  max-width: 1200px;
+}

@@ -9,11 +9,13 @@ import { MenuComponent } from './menu/menu.component';
 import {MatIconModule, MatButtonModule} from "@angular/material";
 import {HttpModule} from "@angular/http";
 import {PricelistService} from "./sections/pricelist/pricelist.service";
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    MenuComponent
+    MenuComponent,
+    FooterComponent
   ],
   imports: [
     RouterModule.forRoot(routs),
