@@ -8,7 +8,7 @@
           "photo": "espresso_ristretto.jpg",
           "description": "",
           "meter": "30 мл",
-          "price": "75"
+          "price": "70"
         },
         {
           "name": "«Эспрессо Ристретто»",
@@ -169,21 +169,21 @@
           "name": "«Смузи клубничный»",
           "photo": "",
           "description": "",
-          "meter": "400 мл",
+          "meter": "300 мл",
           "price": "150"
         },
         {
           "name": "«Смузи клубника-банан»",
           "photo": "",
           "description": "",
-          "meter": "400 мл",
+          "meter": "300 мл",
           "price": "150"
         },
         {
           "name": "«Смузи банан-киви»",
           "photo": "",
           "description": "",
-          "meter": "400 мл",
+          "meter": "300 мл",
           "price": "150"
         },
         {
@@ -256,7 +256,7 @@
       "dish": [
         {
           "name": "Мороженое банан фламбе",
-          "photo": "icecream_banan_flambr.jpg",
+          "photo": "banan_flambe.jpg",
           "description": "",
           "meter": "180 гр",
           "price": "150"
@@ -291,7 +291,7 @@
         },
         {
           "name": "Творожный десерт",
-          "photo": "tvorog_desert.jpg",
+          "photo": "tvorojnyy_desert.jpg",
           "description": "Нежная, ароматная творожная масса с курагой, ванилью в форме шариков, политая шоколадом и посыпанная грецким орехом.",
           "meter": "160 гр",
           "price": "100"
@@ -371,7 +371,7 @@
       "dish":[
         {
           "name": "Чизкейк «New-York»",
-          "photo": "",
+          "photo": "chiskake_newyork.jpg",
           "description": "",
           "meter": "",
           "price": "120"
@@ -392,7 +392,7 @@
         },
         {
           "name": "Чизкейк «New-York» с черникой",
-          "photo": "",
+          "photo": "chiskake_newyork_chernika.jpg",
           "description": "",
           "meter": "",
           "price": "130"
@@ -516,7 +516,7 @@
         },
         {
           "name": "Гнездо глухаря",
-          "photo": "nest_grouses.jpg",
+          "photo": "salat_gnezdo_glucharya.jpg",
           "description": "Картофель, нарезанный тонкой соломкой и обжаренный во фритюре, с добавлением овощей и отварного яйца, заправленный майонезом и зеленью.",
           "meter": "250гр",
           "price": "200"
@@ -556,7 +556,7 @@
         },
         {
           "name": "Рулетики из баклажан с овощами и с сыром «Фета»",
-          "photo": "",
+          "photo": "baklajan_s_syrnoy_massoy.jpg",
           "description": "",
           "meter": "280 гр",
           "price": "260"
@@ -652,7 +652,7 @@
         },
         {
           "name": "Кольца кальмара",
-          "photo": "",
+          "photo": "koltsa_kalmara.jpg",
           "description": "Кольца кальмара в сухарях, обжаренные во фритюре, подаются с соусом «Тар-тар».",
           "meter": "280/100 гр",
           "price": "220"
@@ -666,7 +666,7 @@
         },
         {
           "name": "Сырные палочки",
-          "photo": "chis_round.jpg",
+          "photo": "syrnye_palochki_s_bikonom.jpg",
           "description": "Обжаренные сырные палочки, окутанные нежным беконом и свежим листом салата.",
           "meter": "150 гр",
           "price": "160"
@@ -734,14 +734,14 @@
         },
         {
           "name": "Косичка из свинины",
-          "photo": "piglet_made_from_pork.jpg",
+          "photo": "kosichka_iz_svininy.jpg",
           "description": "С гранатовым соусом.",
           "meter": "180/50 гр",
           "price": "290"
         },
         {
           "name": "Свинина с брокколи",
-          "photo": "",
+          "photo": "svinina_s_brokkoli.jpg",
           "description": "Нежная свиная нарезка, фаршированная брокколи и запеченная до золотистой корочки.",
           "meter": "180/50 гр",
           "price": "280"
@@ -776,7 +776,7 @@
         },
         {
           "name": "Сёмга в слоеном тесте",
-          "photo": "",
+          "photo": "semga_v_sloenom_teste.jpg",
           "description": "Брусочек нежной сёмги, запеченный в слоёном тесте.",
           "meter": "200 гр",
           "price": "230"
